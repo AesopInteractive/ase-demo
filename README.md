@@ -3,7 +3,8 @@
 Testing every Aesop Story Engine component with ASE Demo
 
 To import this information into a WordPress site follow these steps:  
-1.   Log in to that site as an administrator  
+
+1.   Log into that site as an administrator  
 2.   Download and activate Aesop Story Engine on your WordPress install  
 3.   Go to Tools: Import in the WordPress admin panel  
 4.   Install the "WordPress" importer from the list  
